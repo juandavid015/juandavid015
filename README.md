@@ -1,6 +1,5 @@
 # Hola a todos, mi nombre es Juan! 👋
 
-## Un poco sobre mi y lo que hago...
 ## ¿Quien soy?
 Desde pequeño he sido una persona muy curiosa, racional y logica que no le gusta los puntos medios, es decir, quiere saberlo todo y comprenderlo al 100% cuando algo me llama la atencion. Por eso, aunque un poco tarde, hace mas de un año, encontre lo que me apasiona, la programacion, donde utilizo el analisis, la logica y un poco de creatividad para la resolucion de problemas, lo que implicatemente da como resultado algo por lo que tambien siempre he perseguido, pero no sabia como o donde enfocarlo... el crear cosas, en esta caso, soluciones para los demas.
 
