@@ -1,11 +1,13 @@
 ### Hola a todos, mi nombre es Juan! 👋
 
+🌱 Actualmente me encuentro estudiando y desarrollandome en la programacion y especialmente en el desarrollo web, con cierta afinidad tambien al diseño UX/UI
+
 <!--
 **juandavid015/juandavid015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 Actualmente me encuentro estudiando y desarrollandome en la programacion y especialmente en el desarrollo web, con cierta afinidad tambien al diseño UX/UI
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
